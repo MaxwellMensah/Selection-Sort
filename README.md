@@ -1,4 +1,4 @@
-# Selection Sort Algorithm.
+# Selection Sort Algorithm..
 
  
 Selection sort is conceptually the most simplest sorting algorithm. This algorithm will first find the smallest element in the array and swap it with the element in the first position, then it will find the second smallest element and swap it with the element in the second position, and it will keep on doing this until the entire array is sorted.
